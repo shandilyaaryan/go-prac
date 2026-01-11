@@ -6,6 +6,6 @@ import (
  )
 
 func printTime(){
-	var currentTime = time.Now();
+	currentTime := time.Now();
 	fmt.Println("Hello guys, the time is: ", currentTime)
 }
