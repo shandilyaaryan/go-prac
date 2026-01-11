@@ -12,4 +12,8 @@ func main() {
 	fmt.Println(swap("World", "Hello,"))
 	a, b  := split(50)
 	fmt.Println(a,",", b)
+	variables()
+	svd()
+	types()
+	zero()
 }
