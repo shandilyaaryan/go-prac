@@ -16,4 +16,6 @@ func main() {
 	svd()
 	types()
 	zero()
+	typeConversion()
+	typeInference()
 }

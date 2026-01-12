@@ -7,5 +7,5 @@ func zero() {
 	var b bool
 	var f float64
 	var s string
-	fmt.Printf("%d, %t, %f, %s", i, b, f, s)
+	fmt.Printf("%d, %t, %f, %s\n", i, b, f, s)
 }
